@@ -2,10 +2,8 @@
 
 Hello there!
 
-I'm Justin, a male and I like programming. The language I use often is JavaScript. 
-I also code some Lua, a little bit of C and Java.
-I mainly do Roblox games and Discord bots. Coding is fun.
+I'm Justin (he/him), a high-schooler and I like programming. The language I code often is JavaScript. I also code some Lua, a little bit of HTML, and C. I mostly program Roblox games, Discord bots and sometimes, websites (I'm learning Vue). My first project is J-BOT, which is a Discord bot. 
 
-Outside of my technology side, I'm just a normal high-schooler who lives an average life. I like playing online games, being with friends, watching movies and others.
+I enjoy watching movies, chatting and playing games. You can reach me out through my Discord (`Justin ;)#2021`).
 
-Have fun here in my profile!
+Have fun in my profile!
