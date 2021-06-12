@@ -13,7 +13,7 @@ I'm a person who is curious, who is shy (sometimes, not always), gets bored easi
 # Other info
 
 * I can speak 4 languages fluently.
-* He/him
+* He/him.
 * I'm an only-child, which makes me have no siblings.
 * Definitely was not good in school.
 * In high-school.
