@@ -2,22 +2,26 @@
 
 Hi there!
 
-My name's Justin, mostly a backend developer. I try my best to place effort in things I do, both IRL and whenever I'm online. 
+My name's Justin, I mostly work on web and/or backend development.
 
-I program Discord bots, Roblox games, websites, and mostly anything that seems good to me. I know JavaScript, TypeScript, JSX (when using React.js), HTML, Lua, and other minor ones. I'm mostly interested in learning languages that's similar to what I know. My first project would be this Roblox game, me and my friend made. My first *personal* project would be J-BOT, it's a Discord bot, make sure to check it out. Other than programming, I also know how to make models (mostly for personal use).
+I develop REST APIs, games, websites, chat bots, and mostly anything that seems good to me. I know quite a couple of programming languages:
+* TypeScript (and JavaScript),
+* HTML, TSX/JSX,
+* C++,
+* Lua,
+* Kotlin,
+And other ones like Shell scripting, etc. 
 
-Currently, I enjoy watching movies/videos, travelling, reading books that give me useful information, gaming (Roblox, Call of Duty, etc.), chatting on Discord with friends or people I know, and lastly, coding.
+Currently, I enjoy watching movies, travelling, reading books, gaming, social media (maybe), and programming. Sometimes I also try to create models.
 
-I'm a person who is curious, who is shy (sometimes, not always), gets bored easily, who wants to have some friends, enjoy life (I guess), and explore the world. My birthday falls on October 19, which makes me a libra, in terms of Western astrology.
+I can sometimes be funny, as well as curious. I try to enjoy life the most and put effort in all my work. Probably a nerd. My birthday falls on October 19, which makes me a libra.
 
 # Other info
 
-* I can speak 4 languages fluently.
-* He/him
-* I'm an only-child, which makes me have no siblings.
-* Definitely was not good in school.
-* In high-school.
-* Favorite color is blue (dark ones).
+* I can speak 4 languages fluently. 
+* He/him.
+* I don't have any siblings.
+* Favorite color is blue.
 
 # Contact details
 
@@ -28,3 +32,7 @@ I'm a person who is curious, who is shy (sometimes, not always), gets bored easi
 * Xbox: Justin70121
 * Battle.net: Justin#19450
 * Keybase: Justin101
+* Steam, Twitter: justinleeong
+* YouTube, Spotify: Justin Lee-Ong
+* Snapchat: justin_leeong
+* Email: justinleeong@gmail.com
