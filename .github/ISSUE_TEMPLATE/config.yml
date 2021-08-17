@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions
+    url: https://github.com/J-Human/J-Human/discussions
+    about: Talk about other issues or feedback regarding this repository.
