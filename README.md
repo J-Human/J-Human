@@ -10,6 +10,7 @@ I develop REST APIs, games, websites, chat bots, and mostly anything that seems 
 * C++,
 * Lua,
 * Kotlin,
+ 
 And other ones like Shell scripting, etc. 
 
 Currently, I enjoy watching movies, travelling, reading books, gaming, social media (maybe), and programming. Sometimes I also try to create models.
