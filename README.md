@@ -1,6 +1,6 @@
 # About Me
 
-Hi there!
+Hello there!
 
 My name's Justin, I mostly work on web and/or backend development.
 
@@ -13,9 +13,13 @@ I develop REST APIs, games, websites, chat bots, and mostly anything that seems 
  
 And other ones like Shell scripting, etc. 
 
-Currently, I enjoy watching movies, travelling, reading books, gaming, social media (maybe), and programming. Sometimes I also try to create models.
+I have or help develop some projects, like personal games, and J-BOT (Discord bot).
+
+Currently, I enjoy watching movies, travelling, reading books, gaming, social media (maybe), and programming. Sometimes I also try to create digital models.
 
 I can sometimes be funny, as well as curious. I try to enjoy life the most and put effort in all my work. Probably a nerd. My birthday falls on October 19, which makes me a libra.
+
+Making effort is what I try to do, needless to say, aside from other work I do.
 
 # Other info
 
