@@ -34,6 +34,4 @@ I can sometimes be funny, as well as curious. I try to enjoy life the most and p
 * Battle.net: Justin#19450
 * Keybase: Justin101
 * Steam, Twitter: justinleeong
-* YouTube, Spotify: Justin Lee-Ong
-* Snapchat: justin_leeong
 * Email: justinleeong@gmail.com
