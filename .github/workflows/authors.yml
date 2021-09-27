@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: '0'
-      - run: echo "$(git log --all --format='%aN <%aE>' | sort -u)" > AUTHORS
+      - run: echo "$(git log --all --format='%aN <%aE>' --use-mailmap | sort -u)" > AUTHORS
       - uses: gr2m/create-or-update-pull-request-action@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
