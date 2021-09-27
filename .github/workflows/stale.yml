@@ -1,0 +1,24 @@
+name: Mark stale issues and pull requests
+
+on:
+  schedule:
+  - cron: '22 3 * * *'
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+
+    steps:
+    - uses: actions/stale@v3
+      with:
+        days-before-close: 28
+        days-before-stale: 28
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: 'This issue will be closed due to 30 days of inactivity. If you believe this is a mistake, please mention a maintainer and reopen this. Thank you very much.'
+        stale-pr-message: 'This pull request will be closed due to 30 days of inactivity. If you believe this is a mistake, please mention a maintainer and reopen this. Thank you very much.'
+        stale-issue-label: 'stale'
+        stale-pr-label: 'stale'

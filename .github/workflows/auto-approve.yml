@@ -1,0 +1,45 @@
+name: Auto approve
+on:
+  issue_comment:
+    types: [created]
+  
+jobs:
+  permissions:
+    name: Check permissions
+    runs-on: ubuntu-latest
+    if: github.event.issue.user.type == 'User' && startsWith(github.event.comment.body, '/approve') && github.event.issue.pull_request
+    outputs:
+      permission: ${{ steps.permission.outputs.result }}
+    steps:
+      - name: Check user permissions
+        uses: actions/github-script@v4
+        id: permission
+        with:
+          script: |
+            try {
+              const permissions = await github.repos.getCollaboratorPermissionLevel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                username: context.payload.comment.user.login,
+              });
+              const level = permissions.data.permission;
+              return level !== 'admin' && level !== 'write';
+            } catch (error) {
+              core.setFailed(`Request failed with ${error}`);
+            }
+            
+  approve:
+    name: Approve the pull request
+    runs-on: ubuntu-latest
+    needs: permissions
+    steps:
+      - name: Send pull request review
+        uses: actions/github-script@v4
+        with:
+          script: |
+            github.pulls.createReview({
+              owner: context.repo.owner,
+              pull_number: context.payload.issue.number,
+              repo: context.repo.repo,
+              event: 'APPROVE'
+            });
