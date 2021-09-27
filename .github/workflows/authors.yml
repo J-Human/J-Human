@@ -1,0 +1,24 @@
+name: Update AUTHORS
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  update:
+    if: github.repository == 'J-Human/J-Human'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
+      - run: echo "$(git log --all --format='%aN <%aE>' | sort -u)" > AUTHORS
+      - uses: gr2m/create-or-update-pull-request-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          body: "This pull request automates updating the AUTHORS file with new contributors. Feel free to commit a change if there are any problems."
+          branch: "chore/update-authors"
+          commit-message: "chore: update AUTHORS"
+          title: "chore: update AUTHORS"
