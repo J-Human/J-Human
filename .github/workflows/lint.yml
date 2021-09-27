@@ -1,0 +1,12 @@
+name: linters
+on: [push, pull_request]
+
+jobs:
+  lint-codeowners:
+    if: github.event.pull_request.draft == false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: mszostok/codeowners-validator@v0.4.0
+        with:
+          checks: "files,duppatterns"
