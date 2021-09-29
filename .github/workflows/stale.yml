@@ -15,10 +15,10 @@ jobs:
     steps:
     - uses: actions/stale@v3
       with:
-        days-before-close: 28
-        days-before-stale: 28
+        days-before-close: 14
+        days-before-stale: 14
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        stale-issue-message: 'This issue will be closed due to 30 days of inactivity. If you believe this is a mistake, please mention a maintainer and reopen this. Thank you very much.'
-        stale-pr-message: 'This pull request will be closed due to 30 days of inactivity. If you believe this is a mistake, please mention a maintainer and reopen this. Thank you very much.'
+        stale-issue-message: 'This issue will be closed due to 2 weeks of inactivity. If you believe this is a mistake, please mention a maintainer and reopen this. Thank you very much.'
+        stale-pr-message: 'This pull request will be closed due to 2 weeks of inactivity. If you believe this is a mistake, please mention a maintainer and reopen this. Thank you very much.'
         stale-issue-label: 'stale'
         stale-pr-label: 'stale'
