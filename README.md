@@ -5,7 +5,7 @@ Hello there!
 My name's Justin, I mostly work on web and/or backend development.
 
 I develop REST APIs, games, websites, chat bots, and mostly anything that seems good to me. I know quite a couple of programming languages:
-* TypeScript (and JavaScript),
+* TypeScript,
 * HTML,
 * C++,
 * Lua,
