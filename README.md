@@ -40,3 +40,4 @@ Making effort is what I try to do, needless to say, aside from other work I have
 * Keybase: Justin101
 * Steam, Twitter: justinleeong
 * Email: justinleeong@gmail.com
+* Stackoverflow: https://stackoverflow.com/users/16655757/justin
