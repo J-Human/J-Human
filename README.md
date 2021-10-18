@@ -24,6 +24,11 @@ Making effort is what I try to do, needless to say, aside from other work I have
 
 # Other info
 
+<details>
+ 	<summary>GitHub statistics</summary>
+ 	<img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=J-Human&count_private=true&show_icons=true&theme=react&include_all_commits=true" />
+ </details>
+ 
 * I can speak 4 languages fluently. 
 * He/him.
 * I don't have any siblings.
