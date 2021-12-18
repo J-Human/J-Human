@@ -34,5 +34,5 @@ You can always reach me out in any platforms listed at the bottom of this doc. I
 * Reddit: [`Eternal_Dominus`](https://reddit.com/u/Eternal_Dominus "Reddit profile")
 * Keybase: [`Justin101`](https://keybase.io/Justin101 "Keybase profile")
 * Twitter: [`justinleeong`](https://twitter.com/justinleeong "Twitter profile")
-* Email: [`justinleeong@gmail.com`](mailto:justinleeong@gmail.com "email")
+* Email: [`justinleeong [at] gmail [dot] com`](mailto:justinleeong@gmail.com "email")
 * Stack Overflow: [`Justin`](https://stackoverflow.com/users/16655757/justin "Stack Overflow profile") (16655757)
