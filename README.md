@@ -29,7 +29,7 @@ You can always reach me out in any platforms listed at the bottom of this doc. I
 
 # Contact details
 
-* Discord: [`Justin ;)#2021`](https://discord.com/users/746315246582366280 "Discord profile") (746315246582366280)
+* Discord: [`Justin ;)#3507`](https://discord.com/users/746315246582366280 "Discord profile") (746315246582366280)
 * GitHub: [`J-Human`](https://github.com/J-Human "GitHub profile")
 * Reddit: [`Eternal_Dominus`](https://reddit.com/u/Eternal_Dominus "Reddit profile")
 * Keybase: [`Justin101`](https://keybase.io/Justin101 "Keybase profile")
