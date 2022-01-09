@@ -4,11 +4,11 @@ Hello there!
 
 My name is Justin. I work on backend development, open source, and an adequate amount of web (and frameworks like React/Vue).
 
-I commonly use TypeScript, C++, and Python. I also know UNIX shell scripting, Git, and SQL for database management. I'm familiar with Linux (mostly Debian-based systems), and macOS.
+I commonly use TypeScript, C++, and Python. I also know UNIX shell scripting, Git, and SQL for database management.
 
 I enjoy watching movies, travelling, reading books, and gaming.
 
-I can sometimes be funny, as well as curious. I try to enjoy life the most and put effort in all my work. My birthday falls on October 19, which makes me a libra.
+I can sometimes be funny, as well as curious. I try to enjoy life and put effort in my work. My birthday falls on October 19, which makes me a libra.
 
 You can always reach me out in any platforms listed at the bottom of this doc. I also have a [site](https://J-Human.github.io "my site").
 
@@ -22,8 +22,7 @@ You can always reach me out in any platforms listed at the bottom of this doc. I
 		<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Human&langs_count=10&layout=compact" style="height: 200px; width: 350px" />
 	</div>
  </details>
-
-* I can speak 4 languages fluently.
+ 
 * Pronouns are he/him.
 * Favorite color is blue.
 
