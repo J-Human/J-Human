@@ -1,10 +1,8 @@
 # About me
 
-Hello there!
+Hi there, my name's Justin. I'm an avid programmer that mainly does backend development, open source, and an adequate amount of web (and frameworks like React/Vue).
 
-My name is Justin. I work on backend development, open source, and an adequate amount of web (and frameworks like React/Vue).
-
-I commonly use TypeScript, C++, and Python. I also know UNIX shell scripting, Git, and SQL for database management.
+I commonly use TypeScript, C++, and Python. I also know UNIX shell scripting, Git, and SQL.
 
 I enjoy watching movies, travelling, reading books, and gaming.
 
