@@ -1,14 +1,10 @@
 # About me
 
-Hi there, my name's Justin (he/him). I'm an avid programmer that mainly does backend and web development.
+Hi there, my name's Justin (he/him). I'm a programmer that mainly does backend/web development.
 
-I commonly use TypeScript, C++, and Python. I also know Bash, Git, and SQL.
+I commonly use [TypeScript](https://typescriptlang.org), [C++](https://isocpp.org), and [Python](https:/python.org). However, I am also know [Bash](https://www.gnu.org/software/bash/), [Git](https://git-scm.org), and SQL.
 
-I enjoy watching movies, travelling, reading books, and gaming.
-
-Sometimes, I may be funny, and curious. I try to enjoy things, and place effort. My birthday falls on October 19, which makes me a libra.
-
-You can always reach me out in any platforms listed at the bottom of this page. I also have a [site](https://J-Human.github.io "my site").
+In my free time, I enjoy watching movies, travelling, reading books, and gaming.
 
 # Extra
 
@@ -29,3 +25,4 @@ You can always reach me out in any platforms listed at the bottom of this page. 
 * Twitter: [`justinleeong`](https://twitter.com/justinleeong "Twitter profile")
 * Email: `justinleeong [at] gmail [dot] com`
 * Stack Overflow: [`Justin`](https://stackoverflow.com/users/16655757/justin "Stack Overflow profile") (16655757)
+* Site: https://J-Human.me
