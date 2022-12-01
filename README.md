@@ -2,9 +2,9 @@
 
 Hi there, my name's Justin (he/him). I'm a programmer that mainly does backend/web development.
 
-I commonly use [TypeScript](https://typescriptlang.org), [C++](https://isocpp.org), and [Python](https:/python.org). However, I am also know [Bash](https://www.gnu.org/software/bash/), [Git](https://git-scm.org), and SQL.
+I commonly use [TypeScript](https://typescriptlang.org), [C++](https://isocpp.org), and [Python](https:/python.org). However, I also know [Bash](https://www.gnu.org/software/bash/), [Git](https://git-scm.org), and SQL.
 
-In my free time, I enjoy watching movies, travelling, reading books, and gaming.
+In my free time, I enjoy watching movies, going places, reading books, and gaming.
 
 # Extra
 
